@@ -27,3 +27,8 @@ int main()
     geeks();
     return 0;
 } 
+
+// Output 
+// Value at ptr = 0x61ff08
+// Value at var = 5
+// Value at *ptr = 5
