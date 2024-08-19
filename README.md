@@ -45,7 +45,7 @@ int main()
 ### Output 
 
 (A) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9A.png) 
 
 (B) <br> 
 ![]() 
