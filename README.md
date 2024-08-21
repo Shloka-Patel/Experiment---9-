@@ -7,7 +7,7 @@ To study and implement C++ Pointer basics.
 Visual Studio Code <br> 
 
 ### Theory 
-Pointers are symbolic representations of ddresses. <br> 
+Pointers are symbolic representations of addresses. <br> 
 They enable programs to stimulate call-by-preference as well as to create and manipulate dynamic data structures. <br> 
 Iterating over elements in arrays or other data structures is one of the main use of pointers. <br> 
 The address of the variable that we are working with is assigned to the pointer variable that points to the same data type. <br>  
