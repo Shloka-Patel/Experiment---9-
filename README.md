@@ -107,6 +107,6 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9B.png) 
 
 (C) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9C.png) 
 ### Conclusion 
 Learnt about pointers in C++. 
