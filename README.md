@@ -72,6 +72,10 @@ int main()
 }
 ```
 
+(C) <br> 
+```
+```
+
 ### Output 
 
 (A) <br> 
@@ -80,5 +84,7 @@ int main()
 (B) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9B.png) 
 
+(C) <br> 
+![]() 
 ### Conclusion 
 Learnt about pointers in C++. 
