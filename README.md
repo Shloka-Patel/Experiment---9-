@@ -16,6 +16,10 @@ The address of the variable that we are working with is assigned to the pointer 
 
 (A) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 9(A)  
+
 // Program to illustrate pointers. 
 
 #include <bits/stdc++.h> 
