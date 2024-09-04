@@ -49,6 +49,10 @@ int main()
 
 (B) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 9(B)
+
 // Program to create one-dimensional array of pointers. 
 
 #include <iostream> 
